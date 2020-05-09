@@ -1,13 +1,12 @@
 # Create React App template
 
 ## User
-`npx create-react-app my-app --template apollo-tailwind-routerv6`
+
+`npx create-react-app my-app --template typescript-tailwind`
 
 ## Includes
 
 - TypeScript
 - Tailwindcss (UI)
-- Apollo
-- React Router V6 (alpha)
 
-[issues or suggestions](https://github.com/imjakechapman/cra-template-apollo-tailwind/issues)
+[issues or suggestions](https://github.com/imjakechapman/cra-template-typescript-tailwind/issues)

@@ -1,13 +1,12 @@
 {
-  "name": "cra-template-apollo-tailwind-routerv6",
-  "version": "1.0.2",
-  "description": "Personal Create React App template with eslint, stylelint, prettier, tailwindcss, apollo, and React Router V6 alpha",
+  "name": "cra-template-typescript-tailwind",
+  "version": "1.0.0",
+  "description": "Personal Create React App template with typescript, tailwindcss, eslint, stylelint, and prettier",
   "keywords": [
     "create-react-app",
     "react",
-    "apollo",
+    "typescript",
     "tailwindcss",
-    "react router",
     "template"
   ],
   "main": "template.json",
@@ -18,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imjakechapman/cra-template-apollo-tailwind"
+    "url": "https://github.com/imjakechapman/cra-template-typescript-tailwind"
   },
   "bugs": {
-    "url": "https://github.com/imjakechapman/cra-template-apollo-tailwind/issues"
+    "url": "https://github.com/imjakechapman/cra-template-typescript-tailwind/issues"
   },
   "files": [
     "template",
